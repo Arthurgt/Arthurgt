@@ -1,5 +1,5 @@
 Hi there 👋
-- 🔭 I’m currently working as Java backend developer.
+- 🔭 I’m currently working as a Java + Angular fullstack developer.
 - 🌱 I’m currently learning go language and flutter.
 - 😄 In free time i like to learn new things and play football.
 
